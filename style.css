@@ -1,0 +1,36 @@
+body{
+    background: #000;
+}
+p{
+    color: white;
+    
+}
+a{
+    color: aqua;
+}
+#p10{
+height: 380px;
+width: 350px;
+border: 1px solid white;
+
+
+}
+
+#p4{
+    color: aqua;
+}
+#p5{
+    color: aquamarine;
+}
+#p6{
+    color: blue;
+}
+#p7{
+    color: aqua;
+}
+#p8{
+    color: aquamarine;
+}
+#p9{
+    color: blue;
+}
