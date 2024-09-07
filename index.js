@@ -56,7 +56,7 @@ function click1(){
 
    </div>
 
-
+   <button onclick=click2()>Return to home page </button>
 
 
     
