@@ -71,3 +71,7 @@ function click1(){
 
 
 }
+
+function click2(){
+   location.reload()
+}
